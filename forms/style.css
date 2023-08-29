@@ -4,8 +4,11 @@ body {
 
 table {
     width: 30%;
+    height:50%;
     margin-left: 35%;
     margin-top: 20%;
+    padding-top: 10px;
+    padding-left: 5px;
     background-color: #D0FED0;
     border-radius: 10px;
     box-shadow: 4px 4px 4px 4px black;
@@ -28,4 +31,4 @@ table {
 }
 .headings{
     font-size: 16px;
-}
+} 
